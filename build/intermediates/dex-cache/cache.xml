@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\24aa0fa727c287f4a2d1cd0a141202f2425a3ce4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2a5963ccad51f51b2e6a3d552d35d1389ba369e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\b7ab3f26429129c18dc6682277420c2b54522408\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce700064bc43ea9bdc444741503185fcf787f75c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\30469f169371bc606b796e58461b13b2395dca64\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a46a5a3afc69428f7331be78bc10300eb58c7a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\ceb42263c572490513e2f8721256965ad2388857\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_654ab5534590cb90693168c7995895d2ebb35e97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\4a5e36ae35faaf9edb4324c2f69d50a8008738ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f9df3b4ba76b5109b66f60c9116446165acd531b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\29344d94712ffbafe4903c47d5a6e85b4a6f232c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1637caf86b00c0e75e236bd3c4d8f338c6b88f75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\6dca45ebbfa3c610ab3c64891924ce74c7211dee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3874c7772d248a69605ba46a23808d36c6d3024\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\110262b4b55d66daa224c73706144528ff25e9e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36203d1979d8e8ed87be61fb7ce3d2f6494a5ad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\ccc69d2b4e5d515ff00c8bc2d292b432da3df698\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12d25677184904db5dc5675d9f962a85edab8bd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_b9e4df551674156f6bff2225d0bfac74fd9859f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\e6822f5bb53c6030423e1a50d0bb6eec73225058\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db797c3564b4710adc37173865c86ddefad40d4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_39fda26b10b2ea769355a879ea68f6cb8a32b789\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\c490312c997465a40a1b8ee23413e59e4209a092\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_baade52507833187111d971e46e457247652fe8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="110dc0b011a7ed7ec8631eef2e4bd355a056ac6f">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_160f6027edd3fe2a021cdfab22c0d91cc0504ed9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\47e11d47f72a150d118c09cd0724a24935484184\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9373d7ecf63f0437ec18c934be9a892a915e04c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\34bb438c38d9f5d0df4824cbe6051a0592e07f18\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4de8fc08bb16f7a4affa8fa874663e12dfd3c5c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\61e2ef69372b3909c95e2a61cb2116a5f13441c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9fb46232fee08ac721be1ed59f7d7536e7584b9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\510ee4e3ac768202618eac600cdd7d8052096592\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb412ea5986f0509d87ff43ab0293a1685ecb4c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\990612abdb53cc7bc82da3afaaaa0c315f16c588\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b673e4220fc223052a34ff0392f5146d2dedfcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Razor\.android\build-cache\1343b9c46be01636a46cff1ca423383696e96463\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\PRoject Android\codecanyon-19840229-fives-android-universal-word-game-template\Fives\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a797c31adccac0aa6bae0e39d285acc99473a128\classes.dex" />
+    </item>
+
+</items>
